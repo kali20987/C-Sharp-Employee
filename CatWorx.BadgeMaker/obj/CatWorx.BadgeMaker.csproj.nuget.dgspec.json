@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jadeali/bootcamp/C#/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {}
+    "/Users/jadeali/C-Sharp-Employee/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "/Users/jadeali/bootcamp/C#/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {
+    "/Users/jadeali/C-Sharp-Employee/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jadeali/bootcamp/C#/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "/Users/jadeali/C-Sharp-Employee/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "/Users/jadeali/bootcamp/C#/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectPath": "/Users/jadeali/C-Sharp-Employee/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
         "packagesPath": "/Users/jadeali/.nuget/packages/",
-        "outputPath": "/Users/jadeali/bootcamp/C#/CatWorx.BadgeMaker/obj/",
+        "outputPath": "/Users/jadeali/C-Sharp-Employee/CatWorx.BadgeMaker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jadeali/.nuget/NuGet/NuGet.Config"
